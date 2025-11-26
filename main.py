@@ -4,7 +4,7 @@ import requests
 import threading
 from PIL import Image, ImageTk, ImageSequence
 
-API_URL = "https://login-fastapi-qalf.onrender.com"
+API_URL = "https://kguds-login.onrender.com"
 
 
 # ------------------ GIF Loader Widget ------------------

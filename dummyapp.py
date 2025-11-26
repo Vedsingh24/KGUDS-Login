@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
 
-API_URL = "https://login-fastapi-qalf.onrender.com"  # backend
+API_URL = "https://kguds-login.onrender.com"  # backend
 
 
 def run_app(token, role):
